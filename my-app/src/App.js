@@ -14,7 +14,9 @@ width: 320,
 height: 200,
 }}
 >
+<div className="conversation">
 Conversation 1
+</div>  
 </Rnd>
 
 <Rnd
@@ -25,7 +27,9 @@ width: 320,
 height: 200,
 }}
 >
+<div className="conversation">
 Conversation 2
+</div>  
 </Rnd>
 
 </div>
