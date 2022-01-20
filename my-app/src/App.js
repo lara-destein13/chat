@@ -17,7 +17,7 @@ height: 200,
 <div className="container">
   <div className="title">title</div>
   <div className="messages">messages</div>
-  <textarea className="text-area"></textarea>
+  <div className="text-area">text input</div>
 </div>
 </Rnd>
 
@@ -32,8 +32,9 @@ height: 200,
 <div className="container">
   <div className="title">title</div>
   <div className="messages">messages</div>
-  <textarea className="text-area"></textarea>
+  <div className="text-area">text input</div>
 </div>
+
 </Rnd>
 
 </div>
