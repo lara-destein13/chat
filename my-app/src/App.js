@@ -14,9 +14,11 @@ width: 320,
 height: 200,
 }}
 >
-<div className="conversation">
-Conversation 1
-</div>  
+<div className="container">
+  <div className="title">title</div>
+  <div className="messages">messages</div>
+  <div className="text-input">text-input</div>
+</div>
 </Rnd>
 
 <Rnd
@@ -27,9 +29,11 @@ width: 320,
 height: 200,
 }}
 >
-<div className="conversation">
-Conversation 2
-</div>  
+<div className="container">
+  <div className="title">title</div>
+  <div className="messages">messages</div>
+  <div className="text-input">text-input</div>
+</div>
 </Rnd>
 
 </div>
