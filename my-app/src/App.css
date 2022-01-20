@@ -21,9 +21,10 @@
   margin: 5px;
 }
 
-.App .text-input {
-  background-color: white;
+.App .text-area {
   height: 50px;
-  margin: 5px;
+  resize: none;
 }
+
+
 
